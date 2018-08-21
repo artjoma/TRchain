@@ -1,2 +1,2 @@
 # TRchain
-Blockchain layer in Tarantool DB
+Blockchain baed on TarantoolDB
