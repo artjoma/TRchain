@@ -17,11 +17,11 @@ Tarantool DB is heavily optimized for huge data processing NewSQL and allow buil
 * Native currency uint64 type with total suplly X.
 * Money allocation: minting mechanism.
 * P2P messages (chats, notifications...)
-* Custom genesis block for private chains.
+* Custom genesis block for private chains. Custom supply, block time, etc.
 * Should be simple configuration of peer. Download ant run without jamba-mamba stuff.
 
 # Monitization
-Public economic model
+Public economic model.
 
 # Competition
 Currently exists 2 main chains Ethereum and EOS. Ethereum is slow(POA up too ~1200tps) on public chain 14tx per sec. EOS is future leader but it's only of the embryonic stage (released 1.0 at June of 2018). EOS has one single huge problem it's to centralized only 21 Master peer. Not only my concern is too centralized and censorship.
