@@ -14,7 +14,7 @@ Tarantool DB is heavily optimized for huge data processing NewSQL and allow buil
 * Block every 3sec for private chain can be configurable. Or maybe without blocks only txs (?!?! decentralized ledger ?)
 * Max 32 master peers(for POA validators) at the public network.
 * Interceptors for transactions (specific permissions).
-* Native currency uint64 type with total suplly X.
+* Native currency has uint64 data type with total supply X. Some amount Y will be prealocated in genesis block for kick start, bonuseses for developers and who help to project.
 * Money allocation: minting mechanism.
 * P2P messages (chats, notifications...)
 * Custom genesis block for private chains. Custom supply, block time, etc.
